@@ -1,0 +1,10 @@
+{
+  :paths ["src" "test"]
+  :deps
+        {
+           org.clojure/clojure                    {:mvn/version "1.10.0-RC1"}
+           org.clojure/clojurescript              {:mvn/version "1.10.339"}
+
+           com.yahoo.platform.yui/yuicompressor   {:mvn/version "2.4.8"}
+         }
+}
